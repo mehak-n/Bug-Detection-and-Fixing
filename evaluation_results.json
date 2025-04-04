@@ -1,0 +1,14 @@
+{
+    "Bug_Detection": {
+        "Accuracy": 0.9130434782608695,
+        "Precision": 0.9130434782608695,
+        "Recall": 1.0,
+        "F1": 0.9545454545454546
+    },
+    "Fix_Generation": {
+        "Avg_Similarity": 0.1525893534919713,
+        "Avg_BLEU": 0.11700233234267764,
+        "Median_Similarity": 0.20224719101123595,
+        "Median_BLEU": 0.14722500792577722
+    }
+}
